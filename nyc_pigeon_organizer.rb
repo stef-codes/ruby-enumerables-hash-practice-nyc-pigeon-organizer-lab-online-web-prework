@@ -1,4 +1,8 @@
 def nyc_pigeon_organizer(data)
   pigeon_list = {}
-  data[:key]
+  i = 0 
+  data[:color][:purple] 
+  i+= 1 
+  
+  end 
 end
